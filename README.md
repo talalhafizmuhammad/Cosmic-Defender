@@ -2,8 +2,6 @@
 
 A beautifully animated 2D space shooter game built using Pygame.
 
-![Game Screenshot](screenshot.png)
-
 ## 🎮 Features
 - Glowing stars, animated nebulas, and explosions
 - Dynamic enemy ships with unique behaviors
